@@ -1,7 +1,7 @@
 # Memorize!
 A simple game built in swiftUI so I can learn swiftUI. This app should work on ios devices. 
 
-I am using free resouces from standford to learn SwiftUI! Check out [https://cs193p.sites.stanford.edu/](https://cs193p.sites.stanford.edu/) for the course.
+I am using free resouces from Stanford to learn SwiftUI! Check out [https://cs193p.sites.stanford.edu/](https://cs193p.sites.stanford.edu/) for the course.
 
 ## Setup
 
